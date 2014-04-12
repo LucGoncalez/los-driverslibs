@@ -8,3 +8,7 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 	.../LuckyOS/src/libs/drivers
 ```
+
+## Revisões ##
+
+* **build-000:** Movendo GrossCRT de *LOSKernelLibs*
